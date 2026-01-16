@@ -1,0 +1,6 @@
+# coding: utf-8
+# 捕获时间: 2025-12-10 09:54:40
+
+COOKIE = 'rewardsn=; wxtokenkey=777; wxuin=953388840; devicetype=UnifiedPCMac; lang=zh_CN; appmsg_token=1351_qyMEt8z57XnxCa0e39kg-G0QadkfVmfcSgeRhheDIIyFGX7WOwqYh98H8blk18tvdzfnK57JDXBP8VER; version=f264151a; pass_ticket=m/zeBuMvtn9mby6MIE4MtxbdzIm7XqF9veIMBxRTFECRBtLzcz1AfFnQZRymStX8; wap_sid2=CKiezsYDEooBeV9IR2RfOXIwem5TaWVtSVJZMU11M2ttYS12YUp3Qi03NWNlR09WeGdIZU5BT3lJMjRYN1NVVHhhdVJ6LXVBaTFmS2J1RW9tVW00ak5fYnN1elJoWEhQMXBxZjVUczdzQ1JVT0NYYkxWVUNvTVdnTzFwY0ZsYWkwbUFudjlodjVFZXdDVVRBQUF+MPmj48kGOA1AAQ=='
+
+APPMSG_TOKEN = '1351_TTLooI6t5IPtgdhJv2iWslJ2xmppHoj1mng5cHP9E-8Ke5WPutZJgSF3_4FfsonBJT0eQesfasc8cHwS'

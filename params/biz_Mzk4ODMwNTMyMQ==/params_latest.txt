@@ -1,0 +1,17 @@
+# 新版本 PC 微信参数
+# BIZ: Mzk4ODMwNTMyMQ==
+# 捕获时间: 2025-12-10 16:24:58
+
+cookie = 'rewardsn=; wxtokenkey=777; wxuin=953388840; lang=zh_CN; devicetype=UnifiedPCMac; version=f264151a; appmsg_token=1352_CW5FPS4FFAEdMpnwAvZmg-c9jqnEYoziHcxcN5XtYx3blp9-1apttoUYtKyMSMCSMiGV6TvNerxDTD1Q; pass_ticket=mHEHjaAirJZfV5/DAN5/htXOyk0jYYf4CgrTfUpnBcDPfwQIF04E/dWa76qzAFhT; wap_sid2=CKiezsYDEp4BeV9ISm5EQklMTWktN19hdDhjWWNMdUpROFJUNkRnMXVoTnJ6VHpnTi1yYUhSYmhVblNHSjRMOEE2SmQwM2dCRlktMG8wZ25BYVFXQ2Juc3dLLWJ6VFQyeEZNeVIzTUFGdmZHUUxfazlWSW1lc1hCRHlBX1hGWEF3RlpTekIzUU03WURldEZ6RWlTTzlKYnIxVWk0WXI4ejZNbEV3QUEw1dzkyQY4DUAB'
+
+key = 'daf9bdc5abc4e8d02f3f604b03c4025018eec09983ed683312e242ad561753d6e026e4ce7d4b8e05101bfe55b23bdbfd255bf91b1067ca660e61c4eb83e890662f5cfe62eb096b3cbc1ecd365c11dd90cbf9646622f0efd5de3da7fbc11a476f3d8d22062fbf09673215755e1f7cb8738af5d0447892ffd8c7f0e0e7c9969074'
+
+pass_ticket = 'P0qmVMUTKMcduWJ20oAZdtPjqcPK/F6h26eq6T9OFkVkn4JfRcl9zUyxSBGKwFcH'
+
+uin = 'OTUzMzg4ODQw'
+
+devicetype = 'UnifiedPCMac'
+
+clientversion = 'f264151a'
+
+biz = 'Mzk4ODMwNTMyMQ=='

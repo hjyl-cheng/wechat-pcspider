@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# 虚拟环境
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 日志
+*.log
+logs/
+
+# 敏感配置（参数文件包含认证信息，建议不提交）
+# params/new_wechat_config.py
+# params/biz_*/
+
+# 备份文件
+backup/
+
+# 临时文件
+*.tmp
+*.temp
