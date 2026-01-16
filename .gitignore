@@ -24,8 +24,8 @@ logs/
 # params/new_wechat_config.py
 # params/biz_*/
 
-# 备份文件
-backup/
+# 备份文件（保留在git中）
+# backup/
 
 # 临时文件
 *.tmp
